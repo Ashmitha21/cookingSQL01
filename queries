@@ -1,0 +1,21 @@
+1 Write a query to find the average grade of all students across all courses.
+SELECT AVG(grade) AS average_grade
+FROM Enrollments;
+
+2 Write a query to list the names of students along with the courses they are enrolled in. Include the course name in your result.
+
+3 Write a query to count the number of students in each grade level.
+
+4 Write a query to find the maximum grade achieved in each course.
+
+5 Write a query to find the average grade of students who are in grade level 3.
+
+6 Write a query to get a list of students, their enrolled courses, and the credit hours for each course.
+
+7 Write a query to find all courses that have an average grade greater than 3.0.
+
+8 Write a query to find students who have not received a grade of 4.0 in any course.
+
+9 Write a query to find the names of students whose average grade is greater than the average grade of all students.
+
+10 Write a query to display each student's name, the total number of courses they are enrolled in, and their average grade.
